@@ -1,0 +1,17 @@
+{
+  "name": "leetcode_problems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "read": "./leetcode_scripts/read",
+    "help": "./leetcode_scripts/help",
+    "start": "./leetcode_scripts/start",
+    "submit": "./leetcode_scripts/submit",
+    "test": "./leetcode_scripts/test",
+    "list": "./leetcode_scripts/list"
+  },
+  "author": "",
+  "license": "ISC"
+}
