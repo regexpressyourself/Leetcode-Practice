@@ -1,0 +1,2 @@
+#!/bin/bash
+leetcode list -q e --keyword $1;

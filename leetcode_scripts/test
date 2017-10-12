@@ -1,0 +1,2 @@
+#!/bin/bash
+leetcode test ./src/$1-answer.js -t $2;

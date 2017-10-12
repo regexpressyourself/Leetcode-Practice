@@ -1,0 +1,7 @@
+
+echo -e 'help: \t\t\tprint this menu';
+echo -e "read prob_num: \t\tprint the problem's prompt to terminal";
+echo -e "start prob_num: \tcreate/open prompt/template in a js file";
+echo -e "submit prob_num: \tsubmit the problem";
+echo -e "test prob_num test: \ttest the problem against a test case string";
+echo -e "list: \t\t\tlist all problems";

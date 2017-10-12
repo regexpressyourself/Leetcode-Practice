@@ -1,0 +1,3 @@
+#!/bin/bash
+
+leetcode submit ./src/$1-answer.js
